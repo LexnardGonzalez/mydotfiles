@@ -9,7 +9,7 @@
 [profiles]
   [[default]]
     background_color = "#1e1f29"
-    background_darkness = 0.9
+    background_darkness = 0.93
     background_type = transparent
     cursor_color = "#ffffff"
     foreground_color = "#ffffff"
@@ -26,7 +26,7 @@
       cursor_color = "#d3d0c8"
       show_titlebar = False
       background_type = transparent
-      background_darkness = 0.9
+      background_darkness = 0.93
       scrollbar_position = hidden
       scrollback_lines = 999999
       scrollback_infinite = True
